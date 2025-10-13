@@ -5,6 +5,7 @@
 
 [Карточка с данными](https://www.kaggle.com/datasets/downshift/russian-classic-painting-dataset)
 
+![plot_0](/hm1/assets/dataset/0.png)
 
 # Идея исследования
 
